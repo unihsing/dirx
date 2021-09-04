@@ -10,7 +10,7 @@
 *.pot
 *.htm
 *.html
-.DS_Store
+*.DS_Store
 *.icloud
 *.xml
 *.csv
