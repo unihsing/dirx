@@ -1,2 +1,23 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+*.php
+*.json
+*.txt
+*.pot
+*.htm
+*.html
+.DS_Store
+*.icloud
+*.xml
+*.csv
+wp-content/cache/
+wp-content/upgrade/
+wp-content/ai1wm-backups
+wp-content/w3tc-config
+wp-content/languages
+wp-content/updraft
+wp-includes/certificates
