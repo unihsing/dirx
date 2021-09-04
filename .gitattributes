@@ -14,6 +14,7 @@
 *.icloud
 *.xml
 *.csv
+*.svg
 wp-content/cache/
 wp-content/upgrade/
 wp-content/ai1wm-backups
